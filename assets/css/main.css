@@ -2596,6 +2596,9 @@ body.is-loading #banner:after {
   #main > header h2 {
     font-size: 1.75em;
     margin: 0 0 0.5em 0; }
+    #main > header h6 {
+    font-size: 2em;
+    margin: 0 0 0.5em 0; }
   #main > header p {
     color: inherit;
     letter-spacing: 0.225em;
