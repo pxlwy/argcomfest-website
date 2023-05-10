@@ -2933,3 +2933,12 @@ body.is-mobile.landing #footer {
   .ui-icon-grip-diagonal-se { background-position: -80px -224px; }
 
 /*# sourceMappingURL=main.css.map */
+
+.partner-logos
+{
+    height: 80px;
+    width: auto;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
