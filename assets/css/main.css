@@ -2942,5 +2942,12 @@ body.is-mobile.landing #footer {
     margin-left: 20px;
 }
 
+.text-captioning
+{
+    height: 20px;
+    width: auto;
+    margin-right: 5px;
+    margin-left: 5px;
+}
 
 
